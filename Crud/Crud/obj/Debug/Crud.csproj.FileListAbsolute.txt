@@ -1,0 +1,7 @@
+C:\Users\antou\Downloads\Crud\Crud\bin\Debug\Crud.exe.config
+C:\Users\antou\Downloads\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\antou\Downloads\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\antou\Downloads\Crud\Crud\obj\Debug\Crud.csproj.AssemblyReference.cache
+C:\Users\antou\Downloads\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\antou\Downloads\Crud\Crud\obj\Debug\Crud.exe
+C:\Users\antou\Downloads\Crud\Crud\obj\Debug\Crud.pdb
